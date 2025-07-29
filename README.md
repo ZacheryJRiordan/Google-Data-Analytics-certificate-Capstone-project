@@ -29,7 +29,7 @@ The project followed the six-step data analysis process:
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - **SQL (BigQuery):** Data cleaning, transformation, and analysis  
 - **Google Sheets:** Visualization of trends and genre performance  
